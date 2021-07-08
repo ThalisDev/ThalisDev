@@ -1,8 +1,7 @@
 # Hello world, I'm Thalis 👋 #
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thalis_Uriel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalis-michelino-9b125813a/)](https://www.linkedin.com/in/thalis-michelino-9b125813a/)
-
-[![Outlook Badge](https://img.shields.io/badge/thalis224@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:thalis224@hotmail.com]
+[![Outlook Badge](https://img.shields.io/badge/thalis224@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:thalis224@hotmail.com)]
 (mailto:thalis224@hotmail.com)
 
 ## About me ##
