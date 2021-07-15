@@ -24,7 +24,7 @@
 > <code><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></code>
 
 > **studying now:**
-> <code><img alt="TensorFlow" src="https://badges.aleen42.com/src/tensorflow.svg"/></code>
+> <code><img alt="TensorFlow" src="https://badges.aleen42.com/src/tensorflow.svg"/></code> </br>
 > Genexus
 
 > **Mobile:**
