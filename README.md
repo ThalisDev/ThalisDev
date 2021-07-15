@@ -17,7 +17,6 @@
 ## My development stack ##
 ### Languages ###
 > **Web:**
-> <code><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></code>
 > <code><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></code>
 > <code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></code>
 > <code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></code>
@@ -26,6 +25,7 @@
 
 > **studying now:**
 > <code><img alt="TensorFlow" src="https://badges.aleen42.com/src/tensorflow.svg"/></code>
+> Genexus
 
 > **Mobile:**
 > <code><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></code>
