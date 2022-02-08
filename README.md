@@ -1,10 +1,8 @@
 # print('Hello world, I'm Thalis 👋') #
 
-[![Linkedin Badge](https://img.shields.io/badge/Thalis_Uriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thalis-michelino-9b125813a/)](https://www.linkedin.com/in/thalis-michelino-9b125813a/)
-
-[![Outlook Badge](https://img.shields.io/badge/Thalis_Uriel-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thalis224@hotmail.com)
-
-[![Telegram](https://img.shields.io/badge/@thalisuriel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thalisuriel)
+> [![Linkedin Badge](https://img.shields.io/badge/Thalis_Uriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thalis-michelino-9b125813a/)](https://www.linkedin.com/in/thalis-michelino-9b125813a/)
+> [![Outlook Badge](https://img.shields.io/badge/Thalis_Uriel-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thalis224@hotmail.com)
+> [![Telegram](https://img.shields.io/badge/@thalisuriel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thalisuriel)
 
 ## About me ##
 
